@@ -1,6 +1,8 @@
 # WebIrc.js
 
-A Web IRC client written in Node.js using Express.js and socket.io
+A Web IRC client written in Node.js using Express.js and Socket.IO
+
+*This project is under development and it's not ready for production use.*
 
 ---
 ### The MIT License (MIT)
